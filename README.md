@@ -1,10 +1,24 @@
 File Downloader
-===========
+===============
 
-File downloader utility. 
-This package is a part of the Hups Framework. 
+File downloader utility. This package is a part of the Hups Framework.  
+
  
 
+Features
+--------
+
+-   Large file download support
+
+-   Resumable downloads
+
+-   Download speed limitation
+
+-   Low memory usage
+
+-   Costumizable headers
+
+ 
 
 Installation
 ------------
@@ -26,19 +40,21 @@ Usage example
 
 Unit testing
 ------------
+
  
 
 ### Under Windows
 
-```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 $ composer update
 $ vendor/bin/phpunit​.bat
-```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
  
 
 ### Under Linux
 
-```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 $ composer update
 $ vendor/bin/phpunit​
-```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
