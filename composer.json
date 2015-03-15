@@ -3,13 +3,13 @@
     "version": "0.0.1",
     "type": "library",
     "license": "MIT",
-    "description": "",
+    "description": "PHP file downloader. Supports large files and resuming downloads.",
     "keywords": [
         "php",
-        "template",
-        "hups",
-        "lightweight",
-        "tiny"
+        "file",
+        "download",
+        "resume",
+        "large"
     ],
     "repositories": [
         {
