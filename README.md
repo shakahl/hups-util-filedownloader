@@ -3,8 +3,6 @@ File Downloader
 
 File downloader utility. This package is a part of the Hups Framework.  
 
- 
-
 Features
 --------
 
@@ -13,13 +11,11 @@ Features
 -   Download speed limitation
 -   Low memory usage
 -   Costumizable headers
- 
 
 Installation
 ------------
 
 https://packagist.org/packages/shakahl/hups-util-filedownloader
-
  
 
 Usage example
@@ -31,12 +27,8 @@ Usage example
 ?>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
-
 Unit testing
 ------------
-
- 
 
 ### Under Windows
 
@@ -44,7 +36,6 @@ Unit testing
 $ composer update
 $ vendor/bin/phpunit​.bat
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
  
 
 ### Under Linux
