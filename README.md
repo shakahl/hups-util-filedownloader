@@ -9,15 +9,10 @@ Features
 --------
 
 -   Large file download support
-
 -   Resumable downloads
-
 -   Download speed limitation
-
 -   Low memory usage
-
 -   Costumizable headers
-
  
 
 Installation
